@@ -1,0 +1,9 @@
+2022-05-07 13:52:33,939 - ebanking -INFO - open url
+2022-05-07 13:52:34,210 - ebanking -INFO - userid is entered
+2022-05-07 13:52:34,274 - ebanking -INFO - password is entered
+2022-05-07 13:52:38,030 - ebanking -INFO - click on login
+2022-05-07 13:52:38,056 - ebanking -INFO - get the title
+2022-05-07 13:52:40,095 - ebanking -INFO - click on log out
+2022-05-07 13:52:40,100 - ebanking -INFO - switch to alert
+2022-05-07 13:52:40,103 - ebanking -INFO - get the title
+2022-05-07 13:52:40,108 - ebanking -INFO - Text is matched
